@@ -21,7 +21,10 @@ public class mfilosaRectangle extends Rectangle {
 		// TODO Auto-generated constructor stub
 	}
 
-
+        public void setColor(Rectangle rec) {
+	
+	}
+	
 	public boolean adjecent(Rectangle rec) {
 		
 			
