@@ -1,3 +1,3 @@
 # rectangles
 
-Simple Java Rectangles App
+A Simple Java App That calculates Rectangles App
